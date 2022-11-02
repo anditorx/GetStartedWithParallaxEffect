@@ -9,7 +9,8 @@ Hey! I've been learning SwiftUI for IOS App Development. And Tried to create get
 
 # Screenshots
 
-<img src="https://github.com/anditorx/GetStartedWithParallaxEffect/blob/main/result-screenshoot.png">
+<img src="https://github.com/anditorx/GetStartedWithParallaxEffect/blob/main/result-screenshoot.png"> 
+<img src="https://github.com/anditorx/GetStartedWithParallaxEffect/blob/main/result-mp4-getstarted.gif">
 
 # Tech Used
 
